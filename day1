@@ -1,0 +1,25 @@
+1.stm32 JTAG和SWD
+  Reference:https://blog.csdn.net/wuhenyouyuyouyu/article/details/70239398
+  SWD(Serial Wire Debug)
+  JTAG (Joint Test Action Group) 
+  
+2.RTT(Real Time Transfer)　IMT　semihost  重定向
+ Reference: https://blog.csdn.net/houyichaochao/article/details/80555279
+ http://news.eeworld.com.cn/mcu/ic509360.html
+ https://zhuanlan.zhihu.com/p/71244491
+ https://zhuanlan.zhihu.com/p/113097700
+ 
+3.MDK-ARM = KEIL MDK = RealView MDK = KEIL For ARM，统一用 MDK-ARM 称呼。
+Microcontroller Development Kit=MDK
+
+4.arm
+到了ARM-Cortex （ARMv7架构）的时候开始以Cortex来命名，
+并分成Cortex-A、Cortex-R、Cortex-M三个系列。 三大系列分工明确：
+“A”系列面向尖端的基于虚拟内存的操作系统和用户应用；
+“R”系列针对实时系统； 是实时控制。主要应用在对实时性要求高的场合。
+“M”系列对微控制器。
+https://en.wikipedia.org/wiki/ARM_architecture
+
+5.STM32
+https://en.wikipedia.org/wiki/STM32
+  
