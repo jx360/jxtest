@@ -1,0 +1,4 @@
+1.windows下使用pip安装模块速度慢
+  更换下载源
+  使用命令pip install 安装模块名 -i https://pypi.tuna.tsinghua.edu.cn/simple
+  参考：https://zhuanlan.zhihu.com/p/46975553
